@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpwa_react_typescript=self.webpackChunkpwa_react_typescript||[]).push([[874],{179:function(e,t,c){c.r(t);c(791);var r=c(184);t.default=function(){return(0,r.jsx)("h1",{children:"Welcome to your PWA!"})}}}]);
+//# sourceMappingURL=874.810291b3.chunk.js.map
